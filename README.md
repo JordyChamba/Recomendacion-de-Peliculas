@@ -244,27 +244,11 @@ Porcentaje del catálogo que puede ser recomendado.
 - [Recommender Systems - Andrew Ng](https://www.coursera.org/learn/machine-learning-recommenders)
 - [FastAPI Documentation](https://fastapi.tiangolo.com/)
 
-## 👤 Autor
-
-[Tu Nombre]
-- GitHub: [@tuusuario](https://github.com/tuusuario)
-- LinkedIn: [Tu Perfil](https://linkedin.com/in/tuusuario)
-- Email: tu@email.com
 
 ## 📄 Licencia
 
-MIT License - ver LICENSE.md para detalles
+MIT License - ver [LICENSE](LICENSE) para detalles
 
 ---
-
-## 🙋 Contribuciones
-
-Las contribuciones son bienvenidas. Por favor:
-
-1. Fork el proyecto
-2. Crear una rama para tu feature (`git checkout -b feature/AmazingFeature`)
-3. Commit tus cambios (`git commit -m 'Add some AmazingFeature'`)
-4. Push a la rama (`git push origin feature/AmazingFeature`)
-5. Abrir un Pull Request
 
 ## ⭐ Si te fue útil, considera dar una estrella!
